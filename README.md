@@ -1,4 +1,4 @@
-# Workforce Performance Management: Data Warehouse & BI Dashboard
+# Workforce Performance Management
 
 This project is a collaboration between **Dea Kayla Putri Darusman** and **Dinda Ayu Permatasari**. We developed a complete Data Warehouse system and an interactive dashboard to monitor and predict employee performance.
 
